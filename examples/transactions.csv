@@ -1,0 +1,19 @@
+transaction_id,date,time,card_number,driver,unit,odometer,gallons,amount,price_per_gallon,product,location,state
+T-1001,2026-11-01,08:15,1234,Rosa Diaz,U-101,152300,95.0,380.00,4.00,diesel,Pilot,TX
+T-1002,2026-11-02,09:40,1234,Rosa Diaz,U-101,152850,88.0,356.40,4.05,diesel,Loves,TX
+T-1003,2026-11-03,02:30,1234,Rosa Diaz,U-101,153200,60.0,246.00,4.10,diesel,TA,OK
+T-1004,2026-11-03,02:45,1234,Rosa Diaz,U-101,153200,40.0,164.00,4.10,diesel,TA,OK
+T-1005,2026-11-04,10:00,5678,Sam Lee,U-102,98400,165.0,660.00,4.00,diesel,Pilot,TX
+T-1006,2026-11-05,11:20,5678,Sam Lee,U-102,97900,70.0,287.00,4.10,diesel,Flying J,NM
+T-1007,2026-11-06,13:00,9012,Ana Ruiz,U-103,201000,50.0,210.00,4.20,merchandise,Walmart,TX
+T-1008,2026-11-07,07:30,9012,Ana Ruiz,U-103,201600,30.0,126.00,4.20,diesel,Shell,TX
+T-1009,2026-11-08,08:00,3456,Ben Cole,U-104,75100,45.0,200.00,4.10,diesel,Pilot,TX
+T-1010,2026-11-08,09:15,3456,Ben Cole,U-104,75400,40.0,150.00,3.75,diesel,Loves,TX
+T-1011,2026-11-03,14:00,1234,Rosa Diaz,U-105,120500,80.0,420.00,5.25,diesel,Chevron,TX
+T-1012,2026-11-10,10:30,7777,Dana Kim,U-106,,55.0,224.40,4.08,diesel,Pilot,TX
+T-1013,2026-11-10,11:00,7777,Dana Kim,U-106,abc,10.0,40.00,4.00,diesel,Pilot,TX
+T-1001,2026-11-10,12:00,9999,Eli Fox,U-107,50000,20.0,82.00,4.10,diesel,Loves,TX
+T-1014,2026-11-10
+T-1015,2026-12-01,09:00,8888,Fay Chen,U-108,60000,25.0,102.50,4.10,diesel,Pilot,TX
+T-1016,not-a-date,09:00,6666,Gus Hart,U-109,65000,25.0,102.50,4.10,diesel,Pilot,TX
+T-1017,2026-11-09,10:00,2222,Hana Osei,U-110,70000,-10.0,-41.00,4.10,diesel,Pilot,TX

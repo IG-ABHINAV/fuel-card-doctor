@@ -1,0 +1,4 @@
+transaction_id,date,time,card_number,driver,unit,odometer,gallons,amount,price_per_gallon,product,location,state
+C-1,2026-11-01,08:00,1111,Al Fox,U-201,100000,80.0,320.00,4.00,diesel,Pilot,TX
+C-2,2026-11-02,08:30,1111,Al Fox,U-201,100480,80.0,324.00,4.05,diesel,Loves,TX
+C-3,2026-11-03,09:00,2222,Bo Ray,U-202,50000,60.0,246.00,4.10,diesel,TA,OK
